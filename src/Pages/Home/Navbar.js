@@ -39,6 +39,7 @@ function Navbar() {
        
       </div>
       <a
+      href=""
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
       >

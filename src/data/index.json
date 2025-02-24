@@ -41,8 +41,7 @@
     {
       "id": "2",
       "title": "Health care",
-      "description": "Designed and implemented scalable data pipelines for a healthcare analytics project, integrating patient records, claims, and provider data from multiple sources using AWS Glue and Kinesis for batch and real-time ingestion. Optimized ETL workflows in Apache Airflow to process and clean high-volume healthcare data, storing it efficiently in Amazon S3 and Redshift. Developed SQL queries and Athena-based analytics for insights into patient outcomes, fraud detection, and operational efficiency. Leveraged Amazon SageMaker to build predictive models for early disease detection and risk assessment. Ensured compliance with HIPAA regulations by implementing robust data governance and security measures."
-},
+      "description": "Designed and implemented scalable data pipelines for a healthcare analytics project, integrating patient records, claims, and provider data from multiple sources using AWS Glue and Kinesis for batch and real-time ingestion. Optimized ETL workflows in Apache Airflow to process, clean, and enrich high-volume healthcare data, storing it efficiently in Amazon S3 and Redshift. Developed complex SQL queries and Athena-based analytics for actionable insights into patient outcomes, fraud detection, and operational efficiency. Leveraged Amazon SageMaker to build advanced predictive models for early disease detection and risk assessment. Ensured compliance with HIPAA regulations by implementing robust data governance, encryption, and security measures."},
     {
       "id": "3",
       "title": "Disney Steaming",
