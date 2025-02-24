@@ -32,8 +32,7 @@ const Technologies = [
   { icon: <SiApachekafka />, name: "Kafka" },
   { icon: <SiLooker />, name: "Looker" },
   { icon: <SiTableau />, name: "Tableau" },
-  { icon: <FaPython />, name: "Python" },
-  { icon: <SiTableau />, name: "Tableau" }, 
+  { icon: <FaPython />, name: "Python" }, 
    {    icon: <DiScala />, name: "Scala"    },
    {    icon: <PiFileSql />, name: "SQL"    },
 
