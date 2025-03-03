@@ -45,7 +45,7 @@
     {
       "id": "3",
       "title": "Disney Steaming",
-      "description": "Designed and implemented a scalable real-time data pipeline for Disney’s customer engagement and content recommendation systems using Amazon Kinesis and Apache Kafka to process millions of events per second. Built AWS Glue jobs and Lambda functions for data transformation, enriching streaming data with metadata from S3 and DynamoDB. Optimized Amazon Redshift schemas for real-time insights, integrated Apache Flink for low-latency stream processing, and used AWS Step Functions and Apache Airflow for orchestration. Developed event-driven architectures with SNS/SQS, ensured data quality with CloudWatch and Datadog, and deployed Amazon QuickSight dashboards for visualizing engagement trends, enhancing content recommendations through real-time analytics"
+      "description": "Designed and implemented a scalable real-time data pipeline for Disney’s customer engagement and content recommendation systems using Amazon Kinesis and Apache Kafka to process millions of events per second. Built AWS Glue jobs and Lambda functions for data transformation, enriching streaming data with metadata from S3. Optimized Amazon Redshift schemas for real-time insights, integrated Apache Flink for low-latency stream processing, and used AWS Step Functions for orchestration. Developed event-driven architectures with SNS/SQS, ensured data quality with CloudWatch, and deployed Amazon QuickSight dashboards for visualizing engagement trends, enhancing content recommendations through real-time analytics."
     },
     {
       "id": "4",
