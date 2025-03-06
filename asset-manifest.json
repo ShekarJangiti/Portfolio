@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShekarJangiti/Portfolio/static/css/main.ab223436.css",
-    "main.js": "/ShekarJangiti/Portfolio/static/js/main.647ced5e.js",
+    "main.js": "/ShekarJangiti/Portfolio/static/js/main.0ad793e9.js",
     "index.html": "/ShekarJangiti/Portfolio/index.html",
     "main.ab223436.css.map": "/ShekarJangiti/Portfolio/static/css/main.ab223436.css.map",
-    "main.647ced5e.js.map": "/ShekarJangiti/Portfolio/static/js/main.647ced5e.js.map"
+    "main.0ad793e9.js.map": "/ShekarJangiti/Portfolio/static/js/main.0ad793e9.js.map"
   },
   "entrypoints": [
     "static/css/main.ab223436.css",
-    "static/js/main.647ced5e.js"
+    "static/js/main.0ad793e9.js"
   ]
 }
