@@ -24,7 +24,7 @@ export default function ContactMe() {
           <div className="connect--item">
             <FaPhone className="connect--icon" />
             <a href="tel:+13127258242" className="connect--link">
-              +13195354397
+              +19728278395
             </a>
           </div>
           <div className="connect--item">
